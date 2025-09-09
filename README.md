@@ -59,14 +59,9 @@ jupyter notebook
 ```
 Open the relevant notebook in the `notebooks/` folder.
 
-Ensure your venv or virutal environment is selected as the kernel (Top right corner in vscode)
+Ensure your venv or virtual environment is selected as the kernel (Top right corner in vscode)
 
----
 
-## Workflow for Each person
-1. **Copy raw dataset** into `data/raw/`.  
-2. Run your cleaning notebook (`datasetX_clean.ipynb`) → save cleaned file to `data/cleaned/`.  
-3. Run your analysis notebook (`datasetX_analysis.ipynb`) → export plots to `report/figures/`.  
 
 
 ---
