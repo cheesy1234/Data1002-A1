@@ -2,31 +2,6 @@
 
 This project investigates factors that compound cardiovascular disease (CVD) risk, using multiple public datasets.
 
----
-
-## 📂 Project Structure
-```
-DATA1002_Project/
-│
-├── data/
-│   ├── raw/       # original datasets (do not edit)
-│   └── cleaned/   # cleaned datasets saved from notebooks
-│
-├── notebooks/
-│   ├── dataset1_clean.ipynb      # cleaning pipeline for first dataset
-│   ├── dataset1_analysis.ipynb   # analysis for first dataset
-│   └── ...                       # more notebooks (one per dataset)
-│
-├── report/
-│   ├── draft.docx       # shared group report
-│   ├── references.docx  # APA 7th formatted references
-│   └── figures/         # charts/plots exported from notebooks
-│
-├── requirements.txt     # Python dependencies
-└── README.md            # setup instructions (this file)
-```
-
----
 
 ## ⚙️ Setup (Everyone)
 
